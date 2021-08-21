@@ -6,11 +6,11 @@
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://nodejs.org/)
-<img src="https://i.ibb.co/DRTLC1g/anim.png" width="120" height="120" align="left">
+<img src="https://i.ibb.co/x2jBnMp/st-small-507x507-pad-600x600-f8f8f8.jpg" width="120" height="120" align="left">
 <center>
 Connect with me :
 
-<a href="https://fb.me/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://fb.me/fdciabdul"><img src="https://i.ibb.co/q93L1W7/4014870.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
 <a href="https://twitter.com/fdciabdul"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
 

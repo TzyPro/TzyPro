@@ -18,7 +18,7 @@ Connect with me :
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
-Hi hi , i'm Zidan Fadilah Arsa , who are you ? and why you are here ?
+Hi , i'm Zidan Fadilah Arsa , who are you ? and why you are here ?
 ___
 
 

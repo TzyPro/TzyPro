@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://nodejs.org/)
-<img src="https://github.com/TzyPro/TzyPro/anim.png" width="120" height="120" align="left">
+<img src="https://i.ibb.co/DRTLC1g/anim.png" width="120" height="120" align="left">
 <center>
 Connect with me :
 

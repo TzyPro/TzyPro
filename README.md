@@ -10,9 +10,8 @@
 <center>
 Connect with me :
 
-<a href="https://fb.me/fdciabdul"><img src="https://i.ibb.co/q93L1W7/4014870.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://wa.me/77472105089"><img src="https://i.ibb.co/q93L1W7/4014870.png" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/_zidanfadilaharsa"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://twitter.com/fdciabdul"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
 
 
 
